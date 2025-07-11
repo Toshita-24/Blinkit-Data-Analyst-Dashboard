@@ -24,8 +24,9 @@ Average Customer Rating: 3.9 ★
   Sales peaked in 2018 and have since stabilized around $131K.  
 
 
-# Strategic Recommendations:
-Prioritize expansion in Tier 3 locations and large outlet formats.  
-Boost visibility and marketing for low-performing items.  
-Leverage strong-performing categories and regular fat products to maintain sales growth.  
+# Conclusion
+The Blinkit Sales Performance Dashboard offers a clear and data-driven view of the company’s operations across different outlets, locations, and product types.  
+By analyzing sales trends, customer ratings, and inventory metrics, the dashboard highlights key strengths—such as high performance in Tier 3 cities and large outlets—as well as areas for improvement, including low-performing item categories.  
+These insights enable data-backed decision-making to enhance sales strategies, improve customer satisfaction, and optimize resource allocation.  
+This project demonstrates the power of Power BI in transforming raw data into meaningful business intelligence.  
 
