@@ -10,17 +10,17 @@ Total Items Sold: 8,523
 Average Customer Rating: 3.9 ★
 
 # Performance Insights:
- # Outlet Analysis:
+  Outlet Analysis:
    Tier 3 cities lead in sales, followed by Tier 2 and Tier 1.
    High-size outlets generate the highest revenue.
    Supermarket Type 1 is the top-performing outlet type with the most items sold and highest sales.
 
- # Product Trends:
+  Product Trends:
    Regular fat content items account for the majority of revenue (~65%).
    Top-selling categories: Fruits, Snacks, and Household Items.
    Low-performing categories: Seafood, Breakfast Items.
 
- # Time Series Trend:
+  Time Series Trend:
   Sales peaked in 2018 and have since stabilized around $131K.
 
 #  Strategic Recommendations:
