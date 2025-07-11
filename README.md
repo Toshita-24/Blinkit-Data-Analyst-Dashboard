@@ -5,8 +5,8 @@ This project features a comprehensive Power BI dashboard designed to analyze Bli
 
 # Key Highlights:
 Total Sales: $1.20M  
-Average Sales per Outlet: $141
-Total Items Sold: 8,523
+Average Sales per Outlet: $141  
+Total Items Sold: 8,523  
 Average Customer Rating: 3.9 ★
 
 # Performance Insights:
