@@ -27,3 +27,10 @@ Average Customer Rating: 3.9 ★
 Prioritize expansion in Tier 3 locations and large outlet formats.
 Boost visibility and marketing for low-performing items.
 Leverage strong-performing categories and regular fat products to maintain sales growth.
+
+# Actionable Insights
+Focus on Tier 3 and High-Size Outlets for expansion due to higher sales performance.
+Supermarket Type1 should be prioritized and supported with promotions and stock.
+Fruits, Snacks, and Household items are the most lucrative item types—consider bundling or upselling.
+Consider promotional efforts to increase visibility for low-performing items like seafood or breakfast items.
+While Regular Fat products are top performers, low-fat variants still contribute significantly and can be targeted for health-conscious marketing.
