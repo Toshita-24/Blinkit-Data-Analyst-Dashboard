@@ -4,7 +4,7 @@
 This project features a comprehensive Power BI dashboard designed to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution. It leverages key performance indicators (KPIs) and interactive visualizations to uncover actionable insights and identify opportunities for optimization across outlets, locations, and product categories.
 
 # Key Highlights:
-Total Sales: $1.20M
+Total Sales: $1.20M  
 Average Sales per Outlet: $141
 Total Items Sold: 8,523
 Average Customer Rating: 3.9 ★
