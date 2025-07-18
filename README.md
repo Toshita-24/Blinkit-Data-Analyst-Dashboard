@@ -17,13 +17,9 @@ Average Customer Rating: 3.9 out of 5
 - Outlet Size & Location Insights: Displays which outlet sizes and tiers perform better.    
 - Outlet Type Comparison: Compares supermarkets and grocery stores on various performance measures like sales, ratings, and visibility.  
 
-Key Takeaways
-Sales performance is strong, with over $1M in revenue
-
-Customers are leaning towards healthier, low-fat product options
-
-Top-selling items include fruits, vegetables, and snacks
-
-Medium-sized stores in Tier 3 locations are the most profitable
-
-Supermarkets lead in overall sales, while grocery stores offer better item visibility
+# Insights
+Sales performance is strong, with over $1M in revenue.  
+Customers are leaning towards healthier, low-fat product options.   
+Top-selling items include fruits, vegetables, and snacks.  
+Medium-sized stores in Tier 3 locations are the most profitable.  
+Supermarkets lead in overall sales, while grocery stores offer better item visibility.  
