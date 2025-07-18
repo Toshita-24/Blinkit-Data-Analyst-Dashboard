@@ -4,10 +4,10 @@
 This Power BI dashboard was created to give a detailed view of Blinkit's performance in terms of sales, customer satisfaction, and stock distribution. It uses clear visuals and key metrics to help identify trends and areas for improvement.
 
 # Key Metrics (KPIs) Tracked
-Total Sales: $1.20 million from all items sold  
-Average Sales: $141 per transaction  
-Number of Items Sold: 8,523 products  
-Average Customer Rating: 3.9 out of 5  
+- Total Sales: $1.20 million from all items sold  
+- Average Sales: $141 per transaction  
+- Number of Items Sold: 8,523 products  
+- Average Customer Rating: 3.9 out of 5  
 
 # Main Features
 - Interactive Filter Panel: Users can apply filters based on outlet location, size, and product type.  
