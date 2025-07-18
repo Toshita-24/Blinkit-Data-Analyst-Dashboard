@@ -1,32 +1,29 @@
 # Blinkit-Data-Analyst-Dashboard
 
-# Project Overview
-This project features a comprehensive Power BI dashboard designed to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution. It leverages key performance indicators (KPIs) and interactive visualizations to uncover actionable insights and identify opportunities for optimization across outlets, locations, and product categories.
+# Overview:
+This Power BI dashboard was created to give a detailed view of Blinkit's performance in terms of sales, customer satisfaction, and stock distribution. It uses clear visuals and key metrics to help identify trends and areas for improvement.
 
-# Key Highlights:
-Total Sales: $1.20M  
-Average Sales per Outlet: $141  
-Total Items Sold: 8,523  
-Average Customer Rating: 3.9 ★
+# Key Metrics (KPIs) Tracked
+Total Sales: $1.20 million from all items sold  
+Average Sales: $141 per transaction  
+Number of Items Sold: 8,523 products  
+Average Customer Rating: 3.9 out of 5  
 
-# Performance Insights:
-  ## Outlet Analysis:
-   Tier 3 cities lead in sales, followed by Tier 2 and Tier 1.  
-   High-size outlets generate the highest revenue.  
-   Supermarket Type 1 is the top-performing outlet type with the most items sold and highest sales.
-  
-  ## Product Trends:
-   Regular fat content items account for the majority of revenue (~65%).  
-   Top-selling categories: Fruits, Snacks, and Household Items.  
-   Low-performing categories: Seafood, Breakfast Items.  
+# Main Features
+-Interactive Filter Panel: Users can apply filters based on outlet location, size, and product type.  
+## Outlet Growth Over Time: Charts showing outlet growth from 2012 to 2022  
+Fat Content Breakdown: Highlights sales of low-fat vs. regular-fat items.      
+Product Category Analysis: Shows which product types are performing best.  
+Outlet Size & Location Insights: Displays which outlet sizes and tiers perform better.  
+Outlet Type Comparison: Compares supermarkets and grocery stores on various performance measures like sales, ratings, and visibility  
 
-   ## Time Series Trend:
-  Sales peaked in 2018 and have since stabilized around $131K.  
+Key Takeaways
+Sales performance is strong, with over $1M in revenue
 
+Customers are leaning towards healthier, low-fat product options
 
-# Conclusion
-The Blinkit Sales Performance Dashboard offers a clear and data-driven view of the company’s operations across different outlets, locations, and product types.  
-By analyzing sales trends, customer ratings, and inventory metrics, the dashboard highlights key strengths—such as high performance in Tier 3 cities and large outlets—as well as areas for improvement, including low-performing item categories.  
-These insights enable data-backed decision-making to enhance sales strategies, improve customer satisfaction, and optimize resource allocation.  
-This project demonstrates the power of Power BI in transforming raw data into meaningful business intelligence.  
+Top-selling items include fruits, vegetables, and snacks
 
+Medium-sized stores in Tier 3 locations are the most profitable
+
+Supermarkets lead in overall sales, while grocery stores offer better item visibility
