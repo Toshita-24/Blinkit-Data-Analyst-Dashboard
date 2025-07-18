@@ -1,6 +1,6 @@
 # Blinkit-Data-Analyst-Dashboard
 
-# Overview:
+# Overview
 This Power BI dashboard was created to give a detailed view of Blinkit's performance in terms of sales, customer satisfaction, and stock distribution. It uses clear visuals and key metrics to help identify trends and areas for improvement.
 
 # Key Metrics (KPIs) Tracked
