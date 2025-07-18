@@ -10,7 +10,7 @@ Number of Items Sold: 8,523 products
 Average Customer Rating: 3.9 out of 5  
 
 # Main Features
--Interactive Filter Panel: Users can apply filters based on outlet location, size, and product type.  
+- Interactive Filter Panel: Users can apply filters based on outlet location, size, and product type.  
 ## Outlet Growth Over Time: Charts showing outlet growth from 2012 to 2022  
 Fat Content Breakdown: Highlights sales of low-fat vs. regular-fat items.      
 Product Category Analysis: Shows which product types are performing best.  
