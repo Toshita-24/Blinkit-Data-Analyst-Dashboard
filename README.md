@@ -11,11 +11,11 @@ Average Customer Rating: 3.9 out of 5
 
 # Main Features
 - Interactive Filter Panel: Users can apply filters based on outlet location, size, and product type.  
-## Outlet Growth Over Time: Charts showing outlet growth from 2012 to 2022  
-Fat Content Breakdown: Highlights sales of low-fat vs. regular-fat items.      
-Product Category Analysis: Shows which product types are performing best.  
-Outlet Size & Location Insights: Displays which outlet sizes and tiers perform better.  
-Outlet Type Comparison: Compares supermarkets and grocery stores on various performance measures like sales, ratings, and visibility  
+- Outlet Growth Over Time: Charts showing outlet growth from 2012 to 2022    
+- Fat Content Breakdown: Highlights sales of low-fat vs. regular-fat items.        
+- Product Category Analysis: Shows which product types are performing best.    
+- Outlet Size & Location Insights: Displays which outlet sizes and tiers perform better.    
+- Outlet Type Comparison: Compares supermarkets and grocery stores on various performance measures like sales, ratings, and visibility.  
 
 Key Takeaways
 Sales performance is strong, with over $1M in revenue
